@@ -33,8 +33,8 @@
 ------
 - `/db2any/bykey/getjson`  
 Возвращает найденную запись в БД в формате json;  
-**_Параметры_**
-`?key=1?key=2`
-**_Пример_**   
+**Parameters**   
+key: integer (1)   
+**_Пример_** 
 `http://localhost:8080/db2any/bykey/getjson?key=1`
 ***
